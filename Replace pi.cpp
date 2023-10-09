@@ -1,3 +1,4 @@
+//Here they will give a character array which contains pi and you should replace pi with 3.14
 #include<bits/stdc++.h>
 using namespace std;
 void ReplacePi(int i,char *s)
